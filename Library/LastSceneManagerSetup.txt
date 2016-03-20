@@ -1,4 +1,10 @@
 sceneSetups:
+<<<<<<< HEAD
+- path: Assets/MainScene.unity
+  isLoaded: 1
+  isActive: 0
+=======
+>>>>>>> 7080cfeeff78786ab74dde39be03a7f6409f911a
 - path: Assets/subway.unity
   isLoaded: 1
   isActive: 1
