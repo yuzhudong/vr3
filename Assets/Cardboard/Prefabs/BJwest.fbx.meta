@@ -1,0 +1,133 @@
+fileFormatVersion: 2
+guid: dbc0d400dea52534ead9e542b886daa9
+timeCreated: 1458778045
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: cover
+    100004: eaves_blue
+    100006: eaves_tower
+    100008: frame_gold
+    100010: frame_or
+    100012: glass
+    100014: highway
+    100016: tower_red
+    100018: wall
+    100020: whitestone
+    400000: //RootNode
+    400002: cover
+    400004: eaves_blue
+    400006: eaves_tower
+    400008: frame_gold
+    400010: frame_or
+    400012: glass
+    400014: highway
+    400016: tower_red
+    400018: wall
+    400020: whitestone
+    2300000: cover
+    2300002: eaves_blue
+    2300004: eaves_tower
+    2300006: frame_gold
+    2300008: frame_or
+    2300010: glass
+    2300012: highway
+    2300014: tower_red
+    2300016: wall
+    2300018: whitestone
+    3300000: cover
+    3300002: eaves_blue
+    3300004: eaves_tower
+    3300006: frame_gold
+    3300008: frame_or
+    3300010: glass
+    3300012: highway
+    3300014: tower_red
+    3300016: wall
+    3300018: whitestone
+    4300000: cover
+    4300002: eaves_blue
+    4300004: eaves_tower
+    4300006: frame_or
+    4300008: frame_gold
+    4300010: glass
+    4300012: highway
+    4300014: tower_red
+    4300016: wall
+    4300018: whitestone
+    6400000: cover
+    6400002: eaves_blue
+    6400004: eaves_tower
+    6400006: frame_gold
+    6400008: frame_or
+    6400010: glass
+    6400012: highway
+    6400014: tower_red
+    6400016: wall
+    6400018: whitestone
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
